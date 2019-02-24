@@ -1,0 +1,85 @@
+{
+"product" :[
+  {
+    "id": 1,
+    "name": "Gerenuk",
+    "category": "Goldenrod"
+  }, {
+    "id": 2,
+    "name": "Red-capped cardinal",
+    "category": "Khaki"
+  }, {
+    "id": 3,
+    "name": "Pie, rufous tree",
+    "category": "Indigo"
+  }, {
+    "id": 4,
+    "name": "Antelope, roan",
+    "category": "Teal"
+  }, {
+    "id": 5,
+    "name": "Indian tree pie",
+    "category": "Maroon"
+  }, {
+    "id": 6,
+    "name": "Kangaroo, eastern grey",
+    "category": "Blue"
+  }, {
+    "id": 7,
+    "name": "Tropical buckeye butterfly",
+    "category": "Mauv"
+  }, {
+    "id": 8,
+    "name": "Barbet, levaillant's",
+    "category": "Mauv"
+  }, {
+    "id": 9,
+    "name": "Duck, blue",
+    "category": "Teal"
+  }, {
+    "id": 10,
+    "name": "Black-fronted bulbul",
+    "category": "Crimson"
+  }, {
+    "id": 11,
+    "name": "Canadian river otter",
+    "category": "Red"
+  }, {
+    "id": 12,
+    "name": "River wallaby",
+    "category": "Maroon"
+  }, {
+    "id": 13,
+    "name": "Mississippi alligator",
+    "category": "Goldenrod"
+  }, {
+    "id": 14,
+    "name": "Buttermilk snake",
+    "category": "Fuscia"
+  }, {
+    "id": 15,
+    "name": "Bohor reedbuck",
+    "category": "Goldenrod"
+  }, {
+    "id": 16,
+    "name": "Monkey, black spider",
+    "category": "Turquoise"
+  }, {
+    "id": 17,
+    "name": "Coqui francolin",
+    "category": "Puce"
+  }, {
+    "id": 18,
+    "name": "Zebra, plains",
+    "category": "Mauv"
+  }, {
+    "id": 19,
+    "name": "Goose, andean",
+    "category": "Fuscia"
+  }, {
+    "id": 20,
+    "name": "Miner's cat",
+    "category": "Mauv"
+  }
+  ]
+  }
